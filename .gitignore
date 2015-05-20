@@ -1,3 +1,5 @@
+src/minecraft/Start.java
+src/minecraft/net
 runtime/
 eclipse/
 reobf/
@@ -7,7 +9,6 @@ temp/
 docs/
 conf/
 jars/
-src/
 lib/
 bin/
 *.sh
